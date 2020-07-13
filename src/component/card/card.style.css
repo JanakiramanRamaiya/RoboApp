@@ -8,13 +8,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  transition: all 1s;
+  /* transition: all 1s; */
   border-radius: 2rem;
   cursor: pointer;
 }
-.card:hover {
-  transform: scale(1.1, 1.1);
-}
+/* .card:hover {
+  transform: scale(1, 1);
+} */
 .card > img {
   width: 100%;
 }
